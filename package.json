@@ -1,7 +1,7 @@
 {
-  "name": "babybot",
+  "name": "ZEXXO",
   "version": "5.0.0",
-  "description": "Follow instagram @iamramlan_",
+  "description": "Wa.me//6289668726356",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "ramlanid",
+  "author": "ZEXXO",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
     "@vitalets/google-translate-api": "^7.0.0",
